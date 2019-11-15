@@ -1,6 +1,6 @@
 name: app
 description: A quick way to import the Layout (for UI design), Find (for state management), and Login (for stateful login) packages.
-version: 0.0.1
+version: 0.0.2
 authors:
   - Christian Lewis<ctjl96@gmail.com>
   - The Hercules Team<hello@hercules.dev>
